@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 🌟 About The Project
 
-- This is my Virtual Reality and Physically-Based Simulation Assignment01 repo.
+- This is  Virtual Reality and Physically-Based Simulation Assignment01 repo.
 
 ### 👾  Built With
 
