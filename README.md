@@ -96,7 +96,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information. This 
         <a href="https://github.com/Alierenkayhan">
             <img src="https://avatars.githubusercontent.com/u/32596425?v=4" width="100;" alt="Alierenkayhan"/>
             <br />
-            <sub><b>Ali Eren</b></sub>
+            <sub><b>Ali Eren Kayhan</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Caedael">
+            <img src="https://avatars.githubusercontent.com/u/67166322?v=4" width="100;" alt="AdrianDanzglock"/>
+            <br />
+            <sub><b>Adrian Danzglock</b></sub>
         </a>
     </td></tr>
 </table>
