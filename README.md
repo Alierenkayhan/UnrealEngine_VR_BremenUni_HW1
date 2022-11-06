@@ -55,7 +55,7 @@
 ### 👾  Built With
 
 * <img align="left" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" /> 
-* <img align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+* Blueprints 
 
 
 <!-- GETTING STARTED -->
@@ -71,21 +71,22 @@
    ```sh
    git clone https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni_HW1.git
    ```
-See the [open issues](https://github.com/Alierenkayhan/bounedutechsimulationandwebsite/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni_HW1/issues) for a full list of proposed features (and known issues).
 
 <!-- Screenshots -->
 ## 📷 Screenshots
   1-Screenshots of homework
   <table> 
     <tr>
-        <td>  <img align="left" src="" alt="Virtual Reality and Physically-Based Simulation_Assignment01_AliErenKayhan" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni_HW1/blob/main/images/ss/AlierenAdrianVRhw1ss1.png?raw=true" alt="AlierenAdrianVRhw1" width ="100%" height = "auto" /></p></td>
+        <td>  <img align="left" src="https://github.com/Alierenkayhan/UnrealEngine_VR_BremenUni_HW1/blob/main/images/ss/AlierenAdrianVRhw1ss2.png?raw=true" alt="AlierenAdrianVRhw1" width ="100%" height = "auto" /></p></td>
     </tr>
    </table>
 
 <!-- LICENSE -->
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information. This website and simulation are developed by Ali Eren Kayhan. 
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- Contributor -->
 ## 🤩 Contributor
@@ -122,7 +123,3 @@ Project Link: [https://github.com/Alierenkayhan/bounedutechsimulationandwebsite]
 
 * https://github.com/alexandresanlim/Badges4-README.md-Profile
 
-<!-- ACKNOWLEDGMENTS -->
-## ✍️ Acknowledgments
-
-* [@Alierenkayhan](https://github.com/Alierenkayhan)
